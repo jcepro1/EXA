@@ -1,9 +1,0 @@
-C:\Users\daniy\Desktop\examenvector\examenvector\bin\Debug\examenvector.exe.config
-C:\Users\daniy\Desktop\examenvector\examenvector\obj\Debug\examenvector.csprojResolveAssemblyReference.cache
-C:\Users\daniy\Desktop\examenvector\examenvector\obj\Debug\examenvector.Form1.resources
-C:\Users\daniy\Desktop\examenvector\examenvector\obj\Debug\examenvector.Properties.Resources.resources
-C:\Users\daniy\Desktop\examenvector\examenvector\obj\Debug\examenvector.csproj.GenerateResource.Cache
-C:\Users\daniy\Desktop\examenvector\examenvector\bin\Debug\examenvector.exe
-C:\Users\daniy\Desktop\examenvector\examenvector\bin\Debug\examenvector.pdb
-C:\Users\daniy\Desktop\examenvector\examenvector\obj\Debug\examenvector.exe
-C:\Users\daniy\Desktop\examenvector\examenvector\obj\Debug\examenvector.pdb
