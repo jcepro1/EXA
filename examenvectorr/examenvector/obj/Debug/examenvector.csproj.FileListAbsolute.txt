@@ -1,0 +1,18 @@
+C:\Users\daniy\Desktop\examenvector\examenvector\bin\Debug\examenvector.exe.config
+C:\Users\daniy\Desktop\examenvector\examenvector\obj\Debug\examenvector.csprojResolveAssemblyReference.cache
+C:\Users\daniy\Desktop\examenvector\examenvector\obj\Debug\examenvector.Form1.resources
+C:\Users\daniy\Desktop\examenvector\examenvector\obj\Debug\examenvector.Properties.Resources.resources
+C:\Users\daniy\Desktop\examenvector\examenvector\obj\Debug\examenvector.csproj.GenerateResource.Cache
+C:\Users\daniy\Desktop\examenvector\examenvector\bin\Debug\examenvector.exe
+C:\Users\daniy\Desktop\examenvector\examenvector\bin\Debug\examenvector.pdb
+C:\Users\daniy\Desktop\examenvector\examenvector\obj\Debug\examenvector.exe
+C:\Users\daniy\Desktop\examenvector\examenvector\obj\Debug\examenvector.pdb
+C:\Users\PC\Desktop\EXAMEN RECUPERATORIO SI VECTORES 2 2022\examenvectorr\examenvector\bin\Debug\examenvector.exe.config
+C:\Users\PC\Desktop\EXAMEN RECUPERATORIO SI VECTORES 2 2022\examenvectorr\examenvector\bin\Debug\examenvector.exe
+C:\Users\PC\Desktop\EXAMEN RECUPERATORIO SI VECTORES 2 2022\examenvectorr\examenvector\bin\Debug\examenvector.pdb
+C:\Users\PC\Desktop\EXAMEN RECUPERATORIO SI VECTORES 2 2022\examenvectorr\examenvector\obj\Debug\examenvector.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\EXAMEN RECUPERATORIO SI VECTORES 2 2022\examenvectorr\examenvector\obj\Debug\examenvector.Form1.resources
+C:\Users\PC\Desktop\EXAMEN RECUPERATORIO SI VECTORES 2 2022\examenvectorr\examenvector\obj\Debug\examenvector.Properties.Resources.resources
+C:\Users\PC\Desktop\EXAMEN RECUPERATORIO SI VECTORES 2 2022\examenvectorr\examenvector\obj\Debug\examenvector.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\EXAMEN RECUPERATORIO SI VECTORES 2 2022\examenvectorr\examenvector\obj\Debug\examenvector.exe
+C:\Users\PC\Desktop\EXAMEN RECUPERATORIO SI VECTORES 2 2022\examenvectorr\examenvector\obj\Debug\examenvector.pdb
